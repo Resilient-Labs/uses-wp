@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'Utopia Regular';
+  src: url('Utopia Regular.eot');
+  src: url('Utopia Regular.woff2') format('woff2'),
+       url('Utopia Regular.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Utopia-Regular';
+  src: url('Utopia-Regular.woff') format('woff'),
+       url('Utopia-Regular.ttf') format('truetype'),
+       url('Utopia-Regular.svg#Utopia-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
